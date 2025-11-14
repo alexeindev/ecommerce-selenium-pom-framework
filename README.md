@@ -6,7 +6,7 @@ End-to-end test automation framework for the Automation Test Store e-commerce pl
 
 **Application Under Test:** [https://automationteststore.com/](https://automationteststore.com/)
 
-![Project Banner](./images/banner.png)
+<img width="1231" height="1324" alt="Screenshot 2025-11-14 at 10 25 51 AM" src="https://github.com/user-attachments/assets/c2895d4e-653e-4ddb-babd-d854a454e320" />
 
 ## 🎯 Project Objectives
 
